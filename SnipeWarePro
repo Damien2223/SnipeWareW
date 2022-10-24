@@ -1,8 +1,5 @@
-Outdated
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "SnipeWare", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
-JOIN DISCORD FOR MORE HELP.
-
-
-
-
+game.Players.LocalPlayer:Kick(Outdated script)
 
